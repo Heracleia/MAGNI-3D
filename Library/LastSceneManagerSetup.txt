@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CarnivalGame/Scenes/CalibrationPatient.unity
+  isLoaded: 1
+  isActive: 1
